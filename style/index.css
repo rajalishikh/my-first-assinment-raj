@@ -136,3 +136,26 @@ line-height: normal;
 .off{
   color: #E55473;
 }
+/*  my 3rd section total padding  */
+.my-3rd-setion{
+  margin-bottom: 50px;
+}
+/* my 3rd section style text  */
+.my-3rd-section-text{
+  text-align: center;
+  
+}
+/* my 3rd section image  */
+.my-3rd-image{
+  width: 200px;
+  height: 250px;
+   padding-right: 25px;
+}
+/* image style  */
+.my-3rd-section-image{
+  display: flex;
+  margin: auto;
+  width: 50%;
+ 
+
+}
