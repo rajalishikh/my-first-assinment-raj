@@ -3,3 +3,48 @@
   margin: 0;
   padding: 0;
 }
+/* style the header section */
+header{
+ background: rgba(229, 84, 115, 0.10);
+ height:100vh;
+ display: flex;
+ justify-content: space-between;
+
+}
+.text-flower{
+  margin: 250px 200px 200px 197px;
+}
+.heading-flower{
+  padding-bottom: 20px;
+}
+.headin-tag{
+  color: #272727;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-bottom: 20px;
+}
+/* primary title  */
+.primary-titale{
+  color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 300;
+line-height: 30px;
+padding-bottom: 20px;
+
+}
+/* primary button */
+.primary-button{
+  border-radius: 8px;
+  background: #E55473;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  padding: 10px 20px ;
+}
