@@ -80,6 +80,10 @@ border-radius: 300px 300px 0px 0px;
  margin-right: 20px;
  
 }
+.test{
+  object-fit: cover;
+  margin-bottom: 0;
+}
 
 .sub-section-1{
   display: flex;
@@ -111,7 +115,29 @@ background: rgba(71, 125, 17, 0.15);
 .test{
  
   width: 50%;
+  padding: 15px 10px 0px 19px;
+ padding-bottom: 0;
   
+}
+/* my bonus section  section  */
+table, th, td{
+  border: 1px solid rgb(208, 150, 150);
+} 
+.table-head{
+  text-align: center;
+}
+.real-table{
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.table-section{
+  
+background: rgba(229, 84, 115, 0.05);
+margin-bottom: 80px;
+}
+.just-for-padding{
+  padding-bottom: 30px;
 }
 /* my second section background  */
 .my-2nd-sectin{
@@ -220,6 +246,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 30px;
 padding-bottom: 20px;
+
 
 }
 .sub-text-para{
