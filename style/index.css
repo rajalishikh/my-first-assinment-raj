@@ -109,3 +109,30 @@ background: rgba(71, 125, 17, 0.15);
   width: 50%;
   
 }
+/* my second section background  */
+.my-2nd-sectin{
+   
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+justify-content:space-around;
+margin-bottom: 100px;
+}
+/*  my second section text style */
+.section-2nd-text{
+ text-align: center;
+ padding-top: 130px;
+ 
+}
+/* my second  heading section style  */
+.section-2nd-head{
+  color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+/* my off section style */
+.off{
+  color: #E55473;
+}
