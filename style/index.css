@@ -48,3 +48,10 @@ padding-bottom: 20px;
   font-weight: 700;
   padding: 10px 20px ;
 }
+/* my image part  */
+.image{
+  width: 495px;
+height: 700px;
+padding: 0 60px;
+ 
+}
