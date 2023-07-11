@@ -51,9 +51,13 @@ padding-bottom: 20px;
 /* my image part  */
 .image{
   width: 495px;
-height: 700px;
-padding: 0 60px;
+ height: 700px;
+ padding: 0 60px;
  
+}
+.image-home-page{
+  margin-top: 55px;
+  margin-bottom: 0;
 }
 /* main section part text */
 .text-main{
@@ -71,13 +75,12 @@ padding: 0 60px;
 .primary-div{
   width: 264px;
  height: 320px;
-  border-radius: 300px 300px 0px 0px;
+border-radius: 300px 300px 0px 0px;
  background: rgba(167, 33, 98, 0.15);
  margin-right: 20px;
  
- 
- 
 }
+
 .sub-section-1{
   display: flex;
   margin: auto;
@@ -94,6 +97,7 @@ padding: 0 60px;
  margin-right: 20px;
 border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
+object-fit: cover;
 
 }
 .primary-divc{
@@ -157,5 +161,32 @@ line-height: normal;
   margin: auto;
   width: 50%;
  
+}
+.my-4th-section{
+  background-image: url(../image/Rectangle\ 9.png);
+  background-repeat: no-repeat;
+  margin: auto;
+  width: 50%;
+  height: 300px;
+  width: 1400px;
+  margin-bottom: 40px;
+}
+.my-4th-heading{
+  text-align: center;
+  padding-top: 40px;
+}
+/* input field */
+.input-filed{
+  display: flex;
+  margin: auto;
+  width: 50%;
 
+}
+/* input email */
+.input-email{
+  width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+margin-right: 10px;
 }
